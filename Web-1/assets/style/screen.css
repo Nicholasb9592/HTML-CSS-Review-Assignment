@@ -70,7 +70,7 @@ h4 {
 /* Alert Paragraph */
 .alert {
     background: lightgray;
-    color: black;
+    color: red;
     padding: 5px;
 }
 
